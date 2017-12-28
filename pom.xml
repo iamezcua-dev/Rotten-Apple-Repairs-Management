@@ -18,4 +18,11 @@
       </plugin>
     </plugins>
   </build>
+  <dependencies>
+  	<dependency>
+  		<groupId>tablelayout</groupId>
+  		<artifactId>TableLayout</artifactId>
+  		<version>20050920</version>
+  	</dependency>
+  </dependencies>
 </project>
